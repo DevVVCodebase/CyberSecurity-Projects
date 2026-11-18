@@ -4,5 +4,5 @@ Small scripts I build while learning. Each tool has its own folder with a README
 
 Planned:
 - [ ] Password strength checker
-- [ ] Log analyzer
+- [x] Log Brute force Detecter
 - [ ] File integrity checker
